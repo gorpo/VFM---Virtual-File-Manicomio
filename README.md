@@ -1,5 +1,6 @@
-# VFM---Virtual-File-Manicomio
-Sistema de filesharing para servidores sem a necessidade de um banco de dados.
+<h6 align="center">
+   <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
+  </h6>
 
  <h6 align="center">
     <a href="https://tcxsproject.com.br">
